@@ -8,7 +8,7 @@ goto this link:  https://colab.research.google.com/drive/19b0u9Y65bOIKXkLw9fBHEu
 
 step 1: go to the link and sign in with google account  
 
-step2: GOTO RUNTIME   “change the run time TYPE “OPTION  to GPU.( THIS OPTION GIVES MAXIMUM BANDWIDTH TO UPLOAD THE FILE TO DRIVE .this option can be used mostly one time else u can run in another mode)  FireShot Capture 004 - Copy of Torrent To Google Drive Downloader - Colaboratory_ - colab.research.google.com  step 3 : Click on connect  you need to execute the following code/ block every time you open code lab again FireShot Capture 005 - Copy of Torrent To Google Drive Downloader - Colaboratory_ - colab.research.google.com.png  to execute the code :   press on the play button to execute the code in that cell 
+step2: GOTO RUNTIME   “change the run time TYPE “OPTION  to GPU.( THIS OPTION GIVES MAXIMUM BANDWIDTH TO UPLOAD THE FILE TO DRIVE .this option can be used mostly one time else u can run in another mode)  FireShot Capture 004 - Copy of Torrent To Google Drive Downloader - Colaboratory_ - colab.research.google.com 
 
 step 3:execute the first block Install libtorrent and Initialize Session
 
