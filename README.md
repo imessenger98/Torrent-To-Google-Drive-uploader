@@ -3,9 +3,9 @@
 ##we mostly websites like seedr.cc and other web services to get a resumable link or direct link. but these sites have a limit in storage size. 
 in this, we will show how to download a torrent file using a google drive storage.  this is 100% safe and even after adding you can remove the access in the settings if you want. 
 
-step 1:goto this link:  https://colab.research.google.com/drive/19b0u9Y65bOIKXkLw9fBHEucWdci25ITm  this Will open in collab by default (Google Colab is a free cloud service and now it supports free GPU!)
+step 1:goto this link:https://colab.research.google.com/drive/1FnTxOBynbglFo6QwY7SaTMcCttJKjXEc this Will open in collab by default (Google Colab is a free cloud service and now it supports free GPU!)
 
-step2: GOTO RUNTIME   “change the run time TYPE “OPTION  to GPU.( THIS OPTION GIVES MAXIMUM BANDWIDTH TO UPLOAD THE FILE TO DRIVE .this option can be used mostly one time else u can run in another mode)  FireShot Capture 004 - Copy of Torrent To Google Drive Downloader - Colaboratory_ - colab.research.google.com 
+step 2: GOTO RUNTIME   “change the run time TYPE “OPTION  to GPU.( THIS OPTION GIVES MAXIMUM BANDWIDTH TO UPLOAD THE FILE TO DRIVE .this option can be used mostly one time else u can run in another mode)  
 
 ![Alt Text](https://mhdyazin.files.wordpress.com/2019/11/fireshot-capture-004-copy-of-torrent-to-google-drive-downloader-colaboratory_-colab.research.google.com_.png?w=775)
 
