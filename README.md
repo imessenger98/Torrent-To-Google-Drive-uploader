@@ -1,6 +1,7 @@
 # Torrent-To-Google-Drive-uploader
+open in playground and save to drive for later use.
 
-##we mostly websites like seedr.cc and other web services to get a resumable link or direct link. but these sites have a limit in storage size. 
+we mostly websites like seedr.cc and other web services to get a resumable link or direct link. but these sites have a limit in storage size. 
 in this, we will show how to download a torrent file using a google drive storage.  this is 100% safe and even after adding you can remove the access in the settings if you want. 
 
 step 1:goto this link:https://colab.research.google.com/drive/1FnTxOBynbglFo6QwY7SaTMcCttJKjXEc this Will open in collab by default (Google Colab is a free cloud service and now it supports free GPU!)
