@@ -1,4 +1,4 @@
-# Torrent-To-Google-Drive uploader
+# Torrent-To-Google-Drive-uploader
 
 ##we mostly websites like seedr.cc and other web services to get a resumable link or direct link. but these sites have a limit in storage size. 
 in this, we will show how to download a torrent file using a google drive storage.  this is 100% safe and even after adding you can remove the access in the settings if you want. 
