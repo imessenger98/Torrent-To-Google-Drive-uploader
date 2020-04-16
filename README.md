@@ -22,5 +22,5 @@ step 7: execute the download block which will upload your file to drive
 
 step 8: after it is completed wait for some time 
 
-step 9: now goto to the google drive and files will be in the torrent folder . 
+step 9: now goto to the google drive and files will be available in the torrent folder . 
 
