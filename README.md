@@ -1,1 +1,1 @@
-save torrent to drive
+## Upload magnet/torrent links files onto Google Drive using google colab.
