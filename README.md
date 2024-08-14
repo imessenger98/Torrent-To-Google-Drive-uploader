@@ -23,7 +23,6 @@ To use this project, follow these steps:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-
 ## Acknowledgements
 
 Special thanks to [imessenger98](https://github.com/imessenger98) for creating the initial version of this project.
